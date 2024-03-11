@@ -1,0 +1,1 @@
+This repo just tests how github handles soft links and hard links, don't mind me.
